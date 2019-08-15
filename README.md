@@ -1,2 +1,2 @@
-# ARAML
-Codes for our paper at EMNLP2019
+# ARAML: A Stable Adversarial Training Framework for Text Generation
+The codes and the datasets will be released soon.
